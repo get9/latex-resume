@@ -1,0 +1,5 @@
+# pdflatex output files
+*.aux
+*.out
+*.log
+*.pdf
